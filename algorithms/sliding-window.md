@@ -32,8 +32,8 @@ function slidingWindow(arr, k):
     
     return max_sum
 ```
-## Code Implementation
-```Code Implementation
+## Code Implementation - Python
+```python
 def sliding_window_max_sum(arr, k):
     window_sum = 0
     max_sum = float('-inf')
@@ -77,6 +77,7 @@ Minimum size subarray sum.
 Problems involving contiguous subarrays or subsequences.
 
 ## References
-GeeksforGeeks: Sliding Window
-LeetCode: Sliding Window Problems
-Wikipedia: Sliding Window Protocol
+[GeeksforGeeks: Sliding Window - Technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+[GeeksforGeeks: Sliding Window - Problem](https://www.geeksforgeeks.org/sliding-window-problems-identify-solve-and-interview-questions/)
+[LeetCode: Sliding Window Problems](https://leetcode.com/problems/count-number-of-nice-subarrays/?envType=daily-question&envId=2024-06-25)
+[Wikipedia: Sliding Window Protocol](https://en.wikipedia.org/wiki/Sliding_window_protocol)
