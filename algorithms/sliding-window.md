@@ -78,6 +78,9 @@ Problems involving contiguous subarrays or subsequences.
 
 ## References
 [GeeksforGeeks: Sliding Window - Technique](https://www.geeksforgeeks.org/window-sliding-technique/)
+
 [GeeksforGeeks: Sliding Window - Problem](https://www.geeksforgeeks.org/sliding-window-problems-identify-solve-and-interview-questions/)
+
 [LeetCode: Sliding Window Problems](https://leetcode.com/problems/count-number-of-nice-subarrays/?envType=daily-question&envId=2024-06-25)
+
 [Wikipedia: Sliding Window Protocol](https://en.wikipedia.org/wiki/Sliding_window_protocol)
