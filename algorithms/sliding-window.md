@@ -71,6 +71,7 @@ Consider the array [2, 1, 5, 1, 3, 2] and window size k = 3:
 2. Slide window: [1, 5, 1], sum = 7
 3. Slide window: [5, 1, 3], sum = 9
 4. Slide window: [1, 3, 2], sum = 6
+
 Maximum sum found: 9
    
 ## Use Cases
