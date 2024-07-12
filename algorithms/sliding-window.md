@@ -31,6 +31,7 @@ function slidingWindow(arr, k):
             start += 1
     
     return max_sum
+```pseudo
 
 def sliding_window_max_sum(arr, k):
     window_sum = 0
