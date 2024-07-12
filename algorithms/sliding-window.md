@@ -67,11 +67,11 @@ The algorithm uses O(1) extra space, as only a few variables are used to store t
 ## Example
 Consider the array [2, 1, 5, 1, 3, 2] and window size k = 3:
 
-   Initial window: [2, 1, 5], sum = 8
-   Slide window: [1, 5, 1], sum = 7
-   Slide window: [5, 1, 3], sum = 9
-   Slide window: [1, 3, 2], sum = 6
-   Maximum sum found: 9
+1. Initial window: [2, 1, 5], sum = 8
+2. Slide window: [1, 5, 1], sum = 7
+3. Slide window: [5, 1, 3], sum = 9
+4. Slide window: [1, 3, 2], sum = 6
+Maximum sum found: 9
    
 ## Use Cases
 Maximum sum of subarrays of size k.
