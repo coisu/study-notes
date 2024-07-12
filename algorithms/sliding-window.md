@@ -3,6 +3,9 @@
 ## Introduction
 The Sliding Window algorithm is a technique used for solving problems that involve a contiguous subset of elements from an array or list. This technique is particularly useful for problems involving subarrays, substrings, or sequences.
 
+슬라이딩 윈도우 알고리즘은 배열에서 일정 크기의 구간을 이동하면서 문제를 해결하는 알고리즘으로
+보통 부분배열의 합, 최솟값, 최댓값등을 구할 때 자주 사용된다. 이름 그대로 창문처럼 고정된 하위배열의 틀을 배열 상에서 이동시키면서 해당 배열의 원소를 확인한다.
+
 ## Problem Statement
 Find a subarray or subsequence that satisfies certain conditions within a larger array or sequence.
 
